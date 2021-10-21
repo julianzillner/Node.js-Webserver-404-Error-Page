@@ -1,4 +1,4 @@
-<h1>Simple Node.js Webserver</h1><br><br>
+<h1>Simple Node.js Webserver</h1><br>
 <h2>Functions:</h2>
 <ul>
   <li>HTML, CSS, JS</li>
